@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AppMvcBasica.Models
+namespace MinhaAppMvcCompleta.Models
 {
     public abstract class Entity
     {

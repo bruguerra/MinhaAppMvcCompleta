@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace AppMvcBasica.Models
+namespace MinhaAppMvcCompleta.Models
 {
     public class Produto : Entity
     {
