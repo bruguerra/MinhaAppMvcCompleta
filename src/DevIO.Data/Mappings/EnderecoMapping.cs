@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using MinhaAppMvcCompleta.Models;
+using DevIO.Business.Models;
 
 namespace DevIO.Data.Mappings
 {

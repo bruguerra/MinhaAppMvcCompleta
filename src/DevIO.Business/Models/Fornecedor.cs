@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace MinhaAppMvcCompleta.Models
+namespace DevIO.Business.Models
 {
     public class Fornecedor : Entity
     {
