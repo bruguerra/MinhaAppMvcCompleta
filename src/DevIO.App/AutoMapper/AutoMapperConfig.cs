@@ -8,9 +8,9 @@ namespace DevIO.App.AutoMapper
     {
         public AutoMapperConfig()
         {
-            CreateMap<Fornecedor, FornecedorViewModel>();
-            CreateMap<Endereco, EnderecoViewModel>();
-            CreateMap<Produto, ProdutoViewModel>();
+            CreateMap<Fornecedor, FornecedorViewModel>().ReverseMap();
+            CreateMap<Endereco, EnderecoViewModel>().ReverseMap();
+            CreateMap<Produto, ProdutoViewModel>().ReverseMap();
         }
     }
 }
